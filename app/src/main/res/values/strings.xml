@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QR Hut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    // drawer mwnu
+    <string name="scan">Scan</string>
+    <string name="sran_Image">Scan image</string>
+    <string name="generate_qr">Generate QR</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    //__________________________________
+    <string name="empty">No text</string>
+    <string name="сant_open">Open error</string>
+    <string name="argument_empty">Argument empty</string>
+    <string name="copy">Copy</string>
+    //fragment add qr
+    <string name="hint_name">Name</string>
+    <string name="hint_text">Text…</string>
+    <string name="fragment_add_qr_text__generate">Generate</string>
+    <string name="empty_field">Enter text</string>
+    //fragment show qr code
+    <string name="save">Save</string>
+    <string name="no_name"><![CDATA[<No Name]]></string>
+    //MainActivity
+    <string name="need_permission_camera">need permission camera</string>
+    //SaveFileInPhone
+    <string name="save_done">Saved</string>
+    //FragmentScanFromGallery
+    <string name="open">Open QR image</string>
+    <string name="image_does_not_contain_qr_code">image does not contain QR code</string>
+    //GetStringFromImage
+    <string name="error_reader">Reading error</string>
+    //FragmentSetting
+    <string name="language">Language</string>
+    //FragmentLastQRcODE
+    <string name="no_history">No History</string>
+
+</resources>

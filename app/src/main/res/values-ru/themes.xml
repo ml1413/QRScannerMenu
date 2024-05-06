@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QRScannerMenu" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:windowDisablePreview">true</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+
+    <style name="Theme.QRScannerMenu" parent="Base.Theme.QRScannerMenu" />
+
+    <style name="MyButtonStyle" parent="Widget.Material3.Button">
+        <item name="cornerRadius">8dp</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QR Hut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    // drawer mwnu
+    <string name="scan">Сканер</string>
+    <string name="sran_Image">Сканировать с изображения</string>
+    <string name="generate_qr">Сгенерировать QR</string>
+    <string name="history">История</string>
+    <string name="setting">Настройки</string>
+    //__________________________________
+    <string name="empty">Текст отсутствует</string>
+    <string name="сant_open">Ошибка</string>
+    <string name="argument_empty">Пусто</string>
+    <string name="copy">Копировать</string>
+    //fragment add qr
+    <string name="hint_name">Имя</string>
+    <string name="hint_text">Текст…</string>
+    <string name="fragment_add_qr_text__generate">Генерировать</string>
+    <string name="empty_field">Введите текст</string>
+    //fragment show qr code
+    <string name="save">Сохранить</string>
+    <string name="no_name"><![CDATA[<Имя отсутствует]]></string>
+    //MainActivity
+    <string name="need_permission_camera">Необходиро разрешение камеры</string>
+    //SaveFileInPhone
+    <string name="save_done">Сохранено</string>
+    //FragmentScanFromGallery
+    <string name="open">Открыть QR изображение</string>
+    <string name="image_does_not_contain_qr_code">изображение не содержет правильного QR кода</string>
+    //GetStringFromImage
+    <string name="error_reader">Ошибка чтения</string>
+    //FragmentSetting
+    <string name="language">Язык</string>
+    //FragmentLastQRcODE
+    <string name="no_history">История отсутствует</string>
+</resources>
